@@ -1,0 +1,14 @@
+streamlit 
+fpdf
+pypdf
+faiss-cpu
+langchain
+euriai
+langchain-community
+sentence_transformers
+hf_xet 
+python-dotenv
+duckduckgo-search 
+wikipedia
+googlesearch
+ddgs
